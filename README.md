@@ -28,18 +28,17 @@
 
 ---
 
-## 📊 GitHub Stats 📊
+## 🔥 GitHub Stats 🔥
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAdham&theme=vue-dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAdham&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAdham&layout=compact&theme=vue-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAdham&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&line_height=27" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAdham&layout=compact&theme=vue-dark&langs_count=6" height="180"/>
 </div>
 
 ---
 
 ## 🎓 My Resume 🎓
 <p align="center">
-  <a href="[https://drive.google.com/uc?export=download&id=1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5](https://drive.google.com/file/d/10reag3P6XijNDEK6WQZHBVbMc7WRQl8O/view?usp=sharing)" target="_blank" style="font-size: 18px; font-weight: bold;">📜 Mohammed Adham CV</a>
+  <a href="https://drive.google.com/uc?export=download&id=10reag3P6XijNDEK6WQZHBVbMc7WRQl8O" target="_blank" style="font-size: 18px; font-weight: bold;">📜 Mohammed Adham CV</a>
 </p>
 
 ---
