@@ -39,7 +39,7 @@
 
 ## 🎓 My Resume 🎓
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5" target="_blank" style="font-size: 18px; font-weight: bold;">📜 Mohammed Adham CV</a>
+  <a href="[https://drive.google.com/uc?export=download&id=1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5](https://drive.google.com/file/d/10reag3P6XijNDEK6WQZHBVbMc7WRQl8O/view?usp=sharing)" target="_blank" style="font-size: 18px; font-weight: bold;">📜 Mohammed Adham CV</a>
 </p>
 
 ---
