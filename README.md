@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4A90E2; font-size: 40px; font-weight: bold;">Welcome to My Profile 🚀</h1>
+<h1 align="center" style="color: #4A90E2; font-size: 40px; font-weight: bold;">Welcome to My Profile </h1>
 
 <p align="center" style="font-size: 18px;">Hi, I'm <strong>Mohammed Adham</strong>. Passionate about data science, machine learning</p>
 
@@ -9,10 +9,10 @@
 ---
 
 ## 🌟 About Me 🌟
-- 🔭 I’m currently working on AI-powered analytics.
-- 🌱 I’m learning advanced machine learning techniques.
-- 💡 I love exploring new technologies and solving complex problems.
-- 📫 How to reach me? Check out my social links below!
+-  I’m currently working on AI-powered analytics.
+-  I’m learning advanced machine learning techniques.
+-  I love exploring new technologies and solving complex problems.
+-  How to reach me? Check out my social links below!
 
 ---
 
