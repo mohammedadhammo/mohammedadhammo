@@ -44,7 +44,4 @@
 
 ---
 
-## 🚀 Featured Projects 🚀
-- **Project 1:** AI-based Data Analysis Platform
-- **Project 2:** Web Scraping and Automation Tool
-- **Project 3:** Interactive Data Visualization Dashboard
+
