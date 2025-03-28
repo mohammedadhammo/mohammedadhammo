@@ -30,8 +30,9 @@
 
 ## 🔥 GitHub Stats 🔥
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAdham&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&line_height=27" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAdham&layout=compact&theme=vue-dark&langs_count=6" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAdham&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAdham&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAdham&layout=compact&theme=dark&langs_count=8" height="180"/>
 </div>
 
 ---
